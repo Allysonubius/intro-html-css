@@ -23,9 +23,10 @@ p {
 }
 
 div {
-    padding: 200px;
+    padding: 2px;
 }
 
 img {
     background-position: right;
+    border-radius: 50%;
 }
